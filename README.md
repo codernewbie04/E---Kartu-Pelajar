@@ -11,6 +11,7 @@ implementasi dari penggunaan rfid dan database mysql
 5. open arduino uno, upload SC ()
 6. edit arduino uno code
 DONE!
-
+U: admin
+P:admin123
 
 Tutorial : https://www.youtube.com/watch?v=xEERErHU7kg
